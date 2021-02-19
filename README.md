@@ -1,1 +1,1 @@
-# JS-API-METEO
+# Javascript-API-Méteo
