@@ -1,0 +1,29 @@
+body {
+    font-family: "Trebuchet MS";
+    padding: 10rem 50rem;
+}
+.resultat {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.resultat .city {
+    margin: 20px 10px;
+    font-size: 2em;
+}
+.resultat .meteo .temp {
+    font-size: 2em;
+}
+
+
+
+/*<div class="resultat">
+        <div class="city"></div>
+        <div class="condition"></div>
+        <div class="meteo">
+           <img src="" alt="" class="icon">
+           <div class="temp"></div>
+        </div>
+    </div>*/
